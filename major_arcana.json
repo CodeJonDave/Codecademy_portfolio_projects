@@ -1,0 +1,552 @@
+{
+    "1": {
+        "id": 0,
+        "card_name": "The Fool",
+        "description": "The Fool represents new beginnings, adventures, and spontaneity. It is a symbol of taking risks, embracing the unknown, and trusting in the journey ahead.",
+        "keywords": [
+            "new beginnings",
+            "adventure",
+            "freedom",
+            "innocence",
+            "potential"
+        ],
+        "upright_meaning": "Upright, The Fool signifies a fresh start, being open to opportunities, and stepping into a new chapter with enthusiasm.",
+        "reversed_meaning": "Reversed, The Fool can indicate recklessness, poor planning, and fear of stepping into the unknown.",
+        "related_areas": [
+            "adventure",
+            "self-discovery",
+            "new experiences"
+        ],
+        "roman_numeral": "O",
+        "time_meanings": {
+            "past": "A time when you acted impulsively or embraced freedom.",
+            "present": "You stand at the precipice of a new journey.",
+            "future": "A leap of faith will be required."
+        }
+    },
+    "2": {
+        "id": 1,
+        "card_name": "The Magician",
+        "description": "The Magician represents manifestation, skill, and the ability to turn dreams into reality. It symbolizes power, creativity, and resourcefulness when aligned with focus and intention.",
+        "keywords": [
+            "manifestation",
+            "power",
+            "creativity",
+            "skill",
+            "resourcefulness"
+        ],
+        "upright_meaning": "Upright, The Magician signifies harnessing your abilities, taking action, and using your skills to achieve your goals.",
+        "reversed_meaning": "Reversed, The Magician can indicate manipulation, deceit, or untapped potential.",
+        "related_areas": [
+            "manifestation",
+            "personal power",
+            "goal setting"
+        ],
+        "roman_numeral": "I",
+        "time_meanings": {
+            "past": "A period where you skillfully achieved your goals or manifested something significant.",
+            "present": "You have the resources and talent to create success in your life.",
+            "future": "A time of powerful manifestation and realization of your potential lies ahead."
+        }
+    },
+    "3": {
+        "id": 2,
+        "card_name": "The High Priestess",
+        "description": "The High Priestess represents intuition, mystery, and the unseen. It symbolizes the importance of looking within and trusting your inner wisdom.",
+        "keywords": [
+            "intuition",
+            "mystery",
+            "wisdom",
+            "secrecy",
+            "subconscious"
+        ],
+        "upright_meaning": "Upright, The High Priestess signifies the need to trust your instincts, seek hidden knowledge, and connect with your inner self.",
+        "reversed_meaning": "Reversed, The High Priestess can indicate blocked intuition, secrets being revealed, or neglecting your inner voice.",
+        "related_areas": [
+            "spirituality",
+            "intuition",
+            "self-awareness"
+        ],
+        "roman_numeral": "II",
+        "time_meanings": {
+            "past": "A time when you relied on your intuition or explored spiritual mysteries.",
+            "present": "You are being called to look within and trust your inner wisdom.",
+            "future": "An opportunity to uncover hidden truths or deepen your understanding awaits."
+        }
+    },
+    "4": {
+        "id": 3,
+        "card_name": "The Empress",
+        "description": "The Empress represents abundance, nurturing, and creativity. It symbolizes the power of creation, fertility, and connection to nature.",
+        "keywords": [
+            "abundance",
+            "nurturing",
+            "creativity",
+            "fertility",
+            "growth"
+        ],
+        "upright_meaning": "Upright, The Empress signifies growth, nurturing relationships, and embracing your creative potential.",
+        "reversed_meaning": "Reversed, The Empress can indicate blockages in creativity, neglect, or dependency.",
+        "related_areas": [
+            "creativity",
+            "relationships",
+            "self-care"
+        ],
+        "roman_numeral": "III",
+        "time_meanings": {
+            "past": "A period of nurturing and personal growth shaped your current situation.",
+            "present": "You are encouraged to foster creativity and care for yourself and others.",
+            "future": "Abundance and fulfillment are on the horizon through creativity and nurturing efforts."
+        }
+    },
+    "5": {
+        "id": 4,
+        "card_name": "The Emperor",
+        "description": "The Emperor represents authority, structure, and stability. It symbolizes the power of discipline, leadership, and taking control of your environment.",
+        "keywords": [
+            "authority",
+            "structure",
+            "stability",
+            "discipline",
+            "leadership"
+        ],
+        "upright_meaning": "Upright, The Emperor signifies the importance of creating order, asserting authority, and building a solid foundation.",
+        "reversed_meaning": "Reversed, The Emperor can indicate rigidity, abuse of power, or a lack of control.",
+        "related_areas": [
+            "leadership",
+            "discipline",
+            "foundation-building"
+        ],
+        "roman_numeral": "IV",
+        "time_meanings": {
+            "past": "A time when you established order or relied on authority shaped your present.",
+            "present": "You are being called to take charge and create structure in your life.",
+            "future": "A period of stability and leadership lies ahead, requiring discipline and focus."
+        }
+    },
+    "6": {
+        "id": 5,
+        "card_name": "The Hierophant",
+        "description": "The Hierophant represents tradition, spiritual guidance, and conformity. It symbolizes learning through established systems and finding meaning in shared beliefs.",
+        "keywords": [
+            "tradition",
+            "spiritual guidance",
+            "conformity",
+            "education",
+            "belief systems"
+        ],
+        "upright_meaning": "Upright, The Hierophant signifies seeking wisdom from established traditions, mentors, or spiritual practices.",
+        "reversed_meaning": "Reversed, The Hierophant can indicate rebellion against tradition, dogma, or questioning outdated beliefs.",
+        "related_areas": [
+            "spirituality",
+            "education",
+            "community"
+        ],
+        "roman_numeral": "V",
+        "time_meanings": {
+            "past": "A period of learning through tradition or community shaped your path.",
+            "present": "You are being guided by established knowledge or a mentor figure.",
+            "future": "An opportunity to learn or grow within a structured environment is approaching."
+        }
+    },
+    "7": {
+        "id": 6,
+        "card_name": "The Lovers",
+        "description": "The Lovers represent harmony, relationships, and choices. It symbolizes the importance of meaningful connections and aligning values with decisions.",
+        "keywords": [
+            "harmony",
+            "relationships",
+            "choices",
+            "union",
+            "alignment"
+        ],
+        "upright_meaning": "Upright, The Lovers signify love, connection, and making choices that align with your true values.",
+        "reversed_meaning": "Reversed, The Lovers can indicate disharmony, imbalance, or poor choices in relationships or decisions.",
+        "related_areas": [
+            "relationships",
+            "personal values",
+            "decision-making"
+        ],
+        "roman_numeral": "VI",
+        "time_meanings": {
+            "past": "A significant relationship or choice from the past influences your current path.",
+            "present": "You are facing a choice that requires alignment with your values and desires.",
+            "future": "A meaningful connection or an important decision will shape your future."
+        }
+    },
+    "8": {
+        "id": 7,
+        "card_name": "The Chariot",
+        "description": "The Chariot represents determination, willpower, and control. It symbolizes the ability to overcome obstacles and achieve success through focused effort and resilience.",
+        "keywords": [
+            "determination",
+            "willpower",
+            "control",
+            "victory",
+            "assertion"
+        ],
+        "upright_meaning": "Upright, The Chariot signifies triumph over adversity, asserting control, and pushing forward with determination.",
+        "reversed_meaning": "Reversed, The Chariot can indicate a lack of direction, loss of control, or obstacles that feel insurmountable.",
+        "related_areas": [
+            "success",
+            "overcoming obstacles",
+            "self-discipline"
+        ],
+        "roman_numeral": "VII",
+        "time_meanings": {
+            "past": "A time when your drive and focus helped you overcome challenges.",
+            "present": "You are in a phase where determination and control will lead to success.",
+            "future": "Victory and achievement are within your reach, provided you maintain focus and willpower."
+        }
+    },
+    "9": {
+        "id": 8,
+        "card_name": "Strength",
+        "description": "Strength represents courage, resilience, and inner strength. It symbolizes the ability to endure hardship with grace and compassion, overcoming obstacles through patience and willpower.",
+        "keywords": [
+            "courage",
+            "resilience",
+            "patience",
+            "inner strength",
+            "compassion"
+        ],
+        "upright_meaning": "Upright, Strength signifies the power to face challenges with confidence, enduring adversity with grace and perseverance.",
+        "reversed_meaning": "Reversed, Strength can indicate feelings of weakness, insecurity, or lack of control in a situation.",
+        "related_areas": [
+            "courage",
+            "endurance",
+            "self-discipline"
+        ],
+        "roman_numeral": "VIII",
+        "time_meanings": {
+            "past": "A time when your inner strength helped you overcome difficult situations.",
+            "present": "You are being called to find courage and endure challenges with grace.",
+            "future": "A situation will require you to summon your inner strength and resilience."
+        }
+    },
+    "10": {
+        "id": 9,
+        "card_name": "The Hermit",
+        "description": "The Hermit represents introspection, solitude, and inner guidance. It symbolizes the need to retreat from the outside world to find clarity and wisdom within.",
+        "keywords": [
+            "introspection",
+            "solitude",
+            "inner guidance",
+            "wisdom",
+            "reflection"
+        ],
+        "upright_meaning": "Upright, The Hermit signifies a period of introspection, seeking wisdom, and finding answers within yourself.",
+        "reversed_meaning": "Reversed, The Hermit can indicate isolation, loneliness, or avoiding necessary reflection.",
+        "related_areas": [
+            "self-reflection",
+            "spirituality",
+            "personal growth"
+        ],
+        "roman_numeral": "IX",
+        "time_meanings": {
+            "past": "A time of introspection or seeking solitude to gain clarity shaped your current path.",
+            "present": "You are being called to take time for self-reflection and inner guidance.",
+            "future": "A period of introspection will lead you to valuable insights and wisdom."
+        }
+    },
+    "11": {
+        "id": 10,
+        "card_name": "Wheel of Fortune",
+        "description": "The Wheel of Fortune represents cycles, destiny, and change. It symbolizes the constant ebb and flow of life, where fate and circumstances are in motion, influencing the path ahead.",
+        "keywords": [
+            "cycles",
+            "destiny",
+            "change",
+            "luck",
+            "fate"
+        ],
+        "upright_meaning": "Upright, The Wheel of Fortune signifies a turning point, a moment when luck or fate shifts in your favor, leading to new opportunities.",
+        "reversed_meaning": "Reversed, The Wheel of Fortune can indicate a period of stagnation, bad luck, or being caught in negative cycles.",
+        "related_areas": [
+            "luck",
+            "destiny",
+            "change"
+        ],
+        "roman_numeral": "X",
+        "time_meanings": {
+            "past": "A period of significant change or turning points shaped your current situation.",
+            "present": "A shift in fortune or destiny is occurring now, bringing opportunities or challenges.",
+            "future": "A new cycle or turning point will soon bring about changes in your life."
+        }
+    },
+    "12": {
+        "id": 11,
+        "card_name": "Justice",
+        "description": "Justice represents fairness, truth, and balance. It symbolizes the need for impartiality, making decisions based on integrity, and facing the consequences of one's actions.",
+        "keywords": [
+            "fairness",
+            "truth",
+            "balance",
+            "integrity",
+            "accountability"
+        ],
+        "upright_meaning": "Upright, Justice signifies fairness, the need to make decisions based on truth, and achieving balance in a situation.",
+        "reversed_meaning": "Reversed, Justice can indicate dishonesty, imbalance, or unfairness in a situation, or the inability to face consequences.",
+        "related_areas": [
+            "balance",
+            "decision-making",
+            "accountability"
+        ],
+        "roman_numeral": "XI",
+        "time_meanings": {
+            "past": "A period where fairness or accountability shaped your path.",
+            "present": "You are being called to make fair and balanced decisions, or to seek the truth in a situation.",
+            "future": "A time when truth and justice will prevail, bringing balance to your life."
+        }
+    },
+    "13": {
+        "id": 12,
+        "card_name": "The Hanged Man",
+        "description": "The Hanged Man represents surrender, sacrifice, and new perspectives. It symbolizes the need to let go of old ways of thinking, allowing yourself to see things from a different angle.",
+        "keywords": [
+            "surrender",
+            "sacrifice",
+            "perspective",
+            "enlightenment",
+            "waiting"
+        ],
+        "upright_meaning": "Upright, The Hanged Man signifies a period of suspension, where a change in perspective or sacrifice may be required to move forward.",
+        "reversed_meaning": "Reversed, The Hanged Man can indicate resistance to change, feeling stuck, or the inability to see things clearly.",
+        "related_areas": [
+            "enlightenment",
+            "personal growth",
+            "letting go"
+        ],
+        "roman_numeral": "XII",
+        "time_meanings": {
+            "past": "A time when you made a sacrifice or looked at life from a different perspective.",
+            "present": "You are being asked to let go of old patterns and view your situation from a new angle.",
+            "future": "A time of waiting and reflection is ahead, where new insights will be revealed."
+        }
+    },
+    "14": {
+        "id": 13,
+        "card_name": "Death",
+        "description": "Death represents transformation, endings, and new beginnings. It symbolizes the natural cycles of life, where one chapter closes and another begins, signifying profound change.",
+        "keywords": [
+            "transformation",
+            "endings",
+            "new beginnings",
+            "rebirth",
+            "change"
+        ],
+        "upright_meaning": "Upright, Death signifies the end of a major phase or situation, clearing the way for something new to emerge. It calls for embracing change and renewal.",
+        "reversed_meaning": "Reversed, Death can indicate resistance to change, fear of transformation, or being stuck in the past.",
+        "related_areas": [
+            "transformation",
+            "endings",
+            "rebirth"
+        ],
+        "roman_numeral": "XIII",
+        "time_meanings": {
+            "past": "A time of significant change or transformation that shaped your present.",
+            "present": "You are in a period of transformation, letting go of the old to make way for new opportunities.",
+            "future": "A powerful transformation or new beginning lies ahead, bringing an end to what no longer serves you."
+        }
+    },
+    "15": {
+        "id": 14,
+        "card_name": "Temperance",
+        "description": "Temperance represents balance, moderation, and harmony. It symbolizes the need to find equilibrium in life, blending different aspects together for peace and stability.",
+        "keywords": [
+            "balance",
+            "moderation",
+            "patience",
+            "harmony",
+            "integration"
+        ],
+        "upright_meaning": "Upright, Temperance signifies the need for patience, self-control, and finding balance in your life. It suggests blending opposites and seeking harmony.",
+        "reversed_meaning": "Reversed, Temperance can indicate imbalance, excess, or the need for greater moderation in your actions or emotions.",
+        "related_areas": [
+            "balance",
+            "patience",
+            "inner peace"
+        ],
+        "roman_numeral": "XIV",
+        "time_meanings": {
+            "past": "A time when you experienced balance or harmony through patience and moderation.",
+            "present": "You are being called to find balance in a situation or practice patience to achieve harmony.",
+            "future": "A time of peace and balance awaits as you learn to integrate opposing elements in your life."
+        }
+    },
+    "16": {
+        "id": 15,
+        "card_name": "The Devil",
+        "description": "The Devil represents temptation, addiction, and materialism. It symbolizes the negative influences and attachments that can hold you back, urging you to break free from unhealthy patterns.",
+        "keywords": [
+            "temptation",
+            "addiction",
+            "materialism",
+            "bondage",
+            "negative influences"
+        ],
+        "upright_meaning": "Upright, The Devil signifies being trapped in unhealthy patterns or temptations, often related to materialism, addictions, or fear. It calls for breaking free from these bonds.",
+        "reversed_meaning": "Reversed, The Devil can indicate overcoming fear or addiction, breaking free from negative attachments, or seeing through illusions.",
+        "related_areas": [
+            "addiction",
+            "materialism",
+            "inner demons"
+        ],
+        "roman_numeral": "XV",
+        "time_meanings": {
+            "past": "A time when you were influenced by unhealthy attachments or negative patterns.",
+            "present": "You may be feeling trapped or controlled by temptations, and it's time to break free.",
+            "future": "A period of liberation and freedom from negative influences is ahead, but it requires self-awareness and effort."
+        }
+    },
+    "17": {
+        "id": 16,
+        "card_name": "The Tower",
+        "description": "The Tower represents sudden change, upheaval, and revelation. It symbolizes the breaking down of old structures, often through unexpected events, leading to transformation and growth.",
+        "keywords": [
+            "sudden change",
+            "upheaval",
+            "revelation",
+            "destruction",
+            "awakening"
+        ],
+        "upright_meaning": "Upright, The Tower signifies a sudden and often disruptive change, where old foundations are destroyed to make way for new growth and understanding.",
+        "reversed_meaning": "Reversed, The Tower can indicate avoidance of necessary change, fear of upheaval, or resistance to transformation.",
+        "related_areas": [
+            "transformation",
+            "awakening",
+            "necessary change"
+        ],
+        "roman_numeral": "XVI",
+        "time_meanings": {
+            "past": "A time when a sudden or shocking event changed the course of your life.",
+            "present": "You are experiencing or facing a moment of upheaval or disruption that could lead to important transformation.",
+            "future": "A period of radical change and revelation lies ahead, reshaping your reality."
+        }
+    },
+    "18": {
+        "id": 17,
+        "card_name": "The Star",
+        "description": "The Star represents hope, inspiration, and spiritual clarity. It symbolizes a time of healing, renewal, and faith in the future.",
+        "keywords": [
+            "hope",
+            "inspiration",
+            "faith",
+            "healing",
+            "spiritual clarity"
+        ],
+        "upright_meaning": "Upright, The Star signifies a time of spiritual renewal, healing, and renewed hope. It encourages faith in the future and the clarity to pursue your dreams.",
+        "reversed_meaning": "Reversed, The Star can indicate a loss of hope, spiritual disconnection, or feeling lost without direction.",
+        "related_areas": [
+            "healing",
+            "spirituality",
+            "hope"
+        ],
+        "roman_numeral": "XVII",
+        "time_meanings": {
+            "past": "A time when you experienced a sense of renewal or spiritual clarity.",
+            "present": "You are in a phase of healing and inspiration, and it’s time to trust in the future.",
+            "future": "A period of hope, clarity, and inspiration awaits, bringing guidance and direction."
+        }
+    },
+    "19": {
+        "id": 18,
+        "card_name": "The Moon",
+        "description": "The Moon represents illusion, intuition, and the subconscious. It symbolizes the need to navigate through uncertainty and confusion, trusting inner guidance.",
+        "keywords": [
+            "illusion",
+            "intuition",
+            "subconscious",
+            "uncertainty",
+            "mystery"
+        ],
+        "upright_meaning": "Upright, The Moon signifies a time of confusion, uncertainty, and the need to trust your intuition to guide you through the unknown.",
+        "reversed_meaning": "Reversed, The Moon can indicate clarity emerging from confusion, or the uncovering of hidden truths and illusions.",
+        "related_areas": [
+            "intuition",
+            "mystery",
+            "uncertainty"
+        ],
+        "roman_numeral": "XVIII",
+        "time_meanings": {
+            "past": "A time when confusion or illusion clouded your perception, requiring intuition to navigate.",
+            "present": "You are currently facing uncertainty, where trusting your inner guidance is essential.",
+            "future": "A time will come when clarity emerges from confusion, revealing hidden truths."
+        }
+    },
+    "20": {
+        "id": 19,
+        "card_name": "The Sun",
+        "description": "The Sun represents vitality, success, and positivity. It symbolizes a time of clarity, joy, and abundant energy, bringing growth and confidence.",
+        "keywords": [
+            "vitality",
+            "success",
+            "clarity",
+            "joy",
+            "confidence"
+        ],
+        "upright_meaning": "Upright, The Sun signifies a time of great success, happiness, and personal growth. It brings positivity, clarity, and an abundance of energy to your life.",
+        "reversed_meaning": "Reversed, The Sun can indicate temporary setbacks, lack of clarity, or feeling uninspired or disconnected from your purpose.",
+        "related_areas": [
+            "success",
+            "growth",
+            "happiness"
+        ],
+        "roman_numeral": "XIX",
+        "time_meanings": {
+            "past": "A time when you experienced success, clarity, and growth, shaping your current situation.",
+            "present": "You are in a phase of positive energy and growth, and it's a good time to pursue your goals.",
+            "future": "A period of great success, happiness, and fulfillment lies ahead, bringing confidence and vitality."
+        }
+    },
+    "21": {
+        "id": 20,
+        "card_name": "Judgement",
+        "description": "Judgement represents reflection, rebirth, and awakening. It symbolizes a time of self-reflection, evaluating past actions, and making decisions that lead to personal transformation.",
+        "keywords": [
+            "reflection",
+            "rebirth",
+            "awakening",
+            "decision-making",
+            "transformation"
+        ],
+        "upright_meaning": "Upright, Judgement signifies a period of self-reflection, accountability, and making decisions that lead to personal growth and awakening.",
+        "reversed_meaning": "Reversed, Judgement can indicate a reluctance to face the past, avoiding necessary changes, or resisting the call to awaken.",
+        "related_areas": [
+            "self-reflection",
+            "personal growth",
+            "accountability"
+        ],
+        "roman_numeral": "XX",
+        "time_meanings": {
+            "past": "A time of self-evaluation or a call to change that shaped your present situation.",
+            "present": "You are currently being called to reflect, evaluate your past, and make choices that will lead to transformation.",
+            "future": "A time of rebirth and awakening awaits, where past actions will play a crucial role in your future growth."
+        }
+    },
+    "22": {
+        "id": 21,
+        "card_name": "The World",
+        "description": "The World represents completion, wholeness, and fulfillment. It symbolizes the achievement of a goal or the completion of a cycle, bringing a sense of harmony and balance.",
+        "keywords": [
+            "completion",
+            "wholeness",
+            "achievement",
+            "fulfillment",
+            "balance"
+        ],
+        "upright_meaning": "Upright, The World signifies the successful completion of a journey, accomplishment of goals, and the feeling of harmony and fulfillment.",
+        "reversed_meaning": "Reversed, The World can indicate unfinished business, lack of closure, or a feeling of being incomplete despite reaching a goal.",
+        "related_areas": [
+            "accomplishment",
+            "fulfillment",
+            "wholeness"
+        ],
+        "roman_numeral": "XXI",
+        "time_meanings": {
+            "past": "A period of growth or completion that led you to your current state.",
+            "present": "You are in a phase of completion, achieving goals, and finding balance in your life.",
+            "future": "A time of fulfillment and wholeness lies ahead, bringing closure and a sense of accomplishment."
+        }
+    }
+}

@@ -11,5 +11,5 @@ class User:
          self.topic_id = topic
 
       def add_prompt(self, prompt):
-          self.propmt = prompt
-      
+          self.propmt = prompt    
+          
