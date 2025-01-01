@@ -1,0 +1,1411 @@
+{
+    "cups": [
+        {
+            "id": "cp1",
+            "card_name": "Ace of Cups",
+            "description": "The Ace of Cups signifies emotional renewal, love, and spiritual growth. It represents the beginning of new emotional experiences and connections, a fresh start for your heart.",
+            "keywords": [
+                "new beginnings",
+                "love",
+                "emotional fulfillment",
+                "spiritual growth",
+                "intuition"
+            ],
+            "upright_meaning": "Upright, the Ace of Cups signifies an emotional awakening, new relationships, and spiritual fulfillment.",
+            "reversed_meaning": "Reversed, the Ace of Cups can suggest emotional blockages, unfulfilled desires, or difficulty in opening up emotionally.",
+            "related_areas": [
+                "emotions",
+                "relationships",
+                "spiritual growth"
+            ],
+            "roman_numeral": "I",
+            "time_meanings": {
+                "past": "A time of emotional renewal or a new beginning shaped your current state.",
+                "present": "A new emotional opportunity is on the horizon.",
+                "future": "A period of emotional growth and love is approaching."
+            }
+        },
+        {
+            "id": "cp2",
+            "card_name": "Two of Cups",
+            "description": "The Two of Cups represents partnership, mutual attraction, and harmonious relationships. It signifies a deep emotional connection between two people, whether in love, friendship, or business.",
+            "keywords": [
+                "partnership",
+                "mutual attraction",
+                "harmony",
+                "balance",
+                "union"
+            ],
+            "upright_meaning": "Upright, the Two of Cups signifies a strong partnership, mutual respect, and deep emotional connection between two people.",
+            "reversed_meaning": "Reversed, the Two of Cups may indicate disharmony, broken relationships, or an imbalance in a partnership.",
+            "related_areas": [
+                "relationships",
+                "partnerships",
+                "emotional connections"
+            ],
+            "roman_numeral": "II",
+            "time_meanings": {
+                "past": "A time of close emotional connections and partnerships shaped your current state.",
+                "present": "A relationship or partnership is flourishing or needs attention.",
+                "future": "A meaningful connection will bring emotional fulfillment."
+            }
+        },
+        {
+            "id": "cp3",
+            "card_name": "Three of Cups",
+            "description": "The Three of Cups represents celebration, friendship, and community. It symbolizes joyful gatherings, shared accomplishments, and the support of a close-knit group of people.",
+            "keywords": [
+                "celebration",
+                "friendship",
+                "community",
+                "support",
+                "joy"
+            ],
+            "upright_meaning": "Upright, the Three of Cups signifies a time of celebration, emotional support from friends, and harmonious social connections.",
+            "reversed_meaning": "Reversed, the Three of Cups may suggest isolation, misunderstandings, or a lack of support from others.",
+            "related_areas": [
+                "friendship",
+                "celebration",
+                "community"
+            ],
+            "roman_numeral": "III",
+            "time_meanings": {
+                "past": "A time of emotional support and joyous gatherings shaped your current state.",
+                "present": "A celebration or gathering with friends or loved ones is imminent.",
+                "future": "A time of joy and connection with others will bring emotional fulfillment."
+            }
+        },
+        {
+            "id": "cp4",
+            "card_name": "Four of Cups",
+            "description": "The Four of Cups represents contemplation, dissatisfaction, and emotional apathy. It signifies a period of introspection, where you may be feeling disconnected or bored with the current emotional situation.",
+            "keywords": [
+                "contemplation",
+                "dissatisfaction",
+                "apathy",
+                "introspection",
+                "disconnection"
+            ],
+            "upright_meaning": "Upright, the Four of Cups suggests a time of reflection, possibly feeling emotionally distant or uninterested in the opportunities around you. It may indicate the need to reassess your emotional needs.",
+            "reversed_meaning": "Reversed, the Four of Cups can suggest breaking free from emotional stagnation, overcoming apathy, and becoming open to new opportunities.",
+            "related_areas": [
+                "emotions",
+                "introspection",
+                "self-reflection"
+            ],
+            "roman_numeral": "IV",
+            "time_meanings": {
+                "past": "A time of emotional dissatisfaction or introspection shaped your current state.",
+                "present": "You may be feeling disconnected or uninterested in your current emotional situation.",
+                "future": "An emotional breakthrough or new perspective may be on the horizon."
+            }
+        },
+        {
+            "id": "cp5",
+            "card_name": "Five of Cups",
+            "description": "The Five of Cups represents grief, loss, and emotional regret. It signifies a time of mourning or focusing on past disappointments, but it also holds a reminder that not all is lost.",
+            "keywords": [
+                "grief",
+                "loss",
+                "regret",
+                "mourning",
+                "disappointment"
+            ],
+            "upright_meaning": "Upright, the Five of Cups indicates emotional loss or disappointment, but it also encourages you to acknowledge the positive aspects of your life that remain.",
+            "reversed_meaning": "Reversed, the Five of Cups can suggest healing from past wounds, letting go of regret, and embracing a more hopeful outlook.",
+            "related_areas": [
+                "emotions",
+                "healing",
+                "regret"
+            ],
+            "roman_numeral": "V",
+            "time_meanings": {
+                "past": "A time of emotional loss or regret shaped your current state.",
+                "present": "You may be mourning or focusing on a past disappointment.",
+                "future": "A time of emotional healing and moving on from the past is approaching."
+            }
+        },
+        {
+            "id": "cp6",
+            "card_name": "Six of Cups",
+            "description": "The Six of Cups represents nostalgia, memories, and emotional reflection. It signifies a time of reminiscing about the past, childhood innocence, or reconnecting with old friends.",
+            "keywords": [
+                "nostalgia",
+                "memories",
+                "childhood",
+                "innocence",
+                "reconnection"
+            ],
+            "upright_meaning": "Upright, the Six of Cups signifies joyful memories, reconnections with old friends, or returning to simpler times in life. It can also suggest a time to heal by revisiting past experiences.",
+            "reversed_meaning": "Reversed, the Six of Cups can indicate being stuck in the past or difficulty moving on from previous relationships or memories.",
+            "related_areas": [
+                "relationships",
+                "healing",
+                "reconnection"
+            ],
+            "roman_numeral": "VI",
+            "time_meanings": {
+                "past": "A time of childhood innocence or joyful memories shaped your current state.",
+                "present": "You may be reconnecting with someone from your past or reflecting on nostalgic memories.",
+                "future": "Revisiting past experiences could offer healing and valuable lessons."
+            }
+        },
+        {
+            "id": "cp7",
+            "card_name": "Seven of Cups",
+            "description": "The Seven of Cups represents choices, illusions, and daydreams. It signifies a time when many options are available, but confusion or fantasy may cloud judgment and decision-making.",
+            "keywords": [
+                "choices",
+                "illusions",
+                "fantasy",
+                "opportunities",
+                "decisions"
+            ],
+            "upright_meaning": "Upright, the Seven of Cups signifies a time of overwhelming choices and possibilities, where one must decide carefully to avoid being misled by illusions or unrealistic dreams.",
+            "reversed_meaning": "Reversed, the Seven of Cups can indicate a clearer focus, a time of making decisive choices, or the overcoming of confusion and distraction.",
+            "related_areas": [
+                "decision-making",
+                "opportunities",
+                "clarity"
+            ],
+            "roman_numeral": "VII",
+            "time_meanings": {
+                "past": "A time of confusing choices or distractions shaped your current state.",
+                "present": "You may be facing many options, but you need clarity to make the right decision.",
+                "future": "With focus and discernment, a decision will soon be made with greater certainty."
+            }
+        },
+        {
+            "id": "cp8",
+            "card_name": "Eight of Cups",
+            "description": "The Eight of Cups represents emotional withdrawal, leaving behind something unfulfilling, and seeking deeper meaning. It signifies a turning point, where one may walk away from the familiar in search of greater emotional fulfillment.",
+            "keywords": [
+                "emotional withdrawal",
+                "leaving behind",
+                "seeking meaning",
+                "moving on",
+                "growth"
+            ],
+            "upright_meaning": "Upright, the Eight of Cups signifies a period of emotional withdrawal, moving on from something that no longer serves you, and searching for deeper satisfaction and meaning.",
+            "reversed_meaning": "Reversed, the Eight of Cups may indicate a fear of change, reluctance to leave an unfulfilling situation, or avoiding emotional growth.",
+            "related_areas": [
+                "emotional growth",
+                "letting go",
+                "self-discovery"
+            ],
+            "roman_numeral": "VIII",
+            "time_meanings": {
+                "past": "A time of emotional discontent or dissatisfaction shaped your current state.",
+                "present": "You may be considering leaving behind something unfulfilling to seek greater emotional fulfillment.",
+                "future": "A journey of self-discovery and growth lies ahead, requiring you to move on from the past."
+            }
+        },
+        {
+            "id": "cp9",
+            "card_name": "Nine of Cups",
+            "description": "The Nine of Cups is often referred to as the 'wish card.' It signifies emotional fulfillment, contentment, and the realization of desires. It represents a time when you are at peace with yourself and your emotional needs are met.",
+            "keywords": [
+                "emotional fulfillment",
+                "contentment",
+                "wish granted",
+                "satisfaction",
+                "abundance"
+            ],
+            "upright_meaning": "Upright, the Nine of Cups signifies emotional satisfaction, the fulfillment of wishes, and a time of happiness and well-being.",
+            "reversed_meaning": "Reversed, the Nine of Cups may indicate dissatisfaction despite outward success, unfulfilled desires, or the need to reassess what truly brings happiness.",
+            "related_areas": [
+                "emotional satisfaction",
+                "happiness",
+                "abundance"
+            ],
+            "roman_numeral": "IX",
+            "time_meanings": {
+                "past": "A time of emotional satisfaction and fulfillment shaped your current state.",
+                "present": "A period of emotional contentment and fulfillment is at hand, with your wishes coming to fruition.",
+                "future": "Your emotional desires are within reach, and a sense of peace and satisfaction awaits you."
+            }
+        },
+        {
+            "id": "cp10",
+            "card_name": "Ten of Cups",
+            "description": "The Ten of Cups represents emotional harmony, fulfillment, and happiness in relationships. It signifies a period of joy and peace in your personal life, often associated with family, home, and a sense of emotional completeness.",
+            "keywords": [
+                "emotional fulfillment",
+                "harmony",
+                "family",
+                "joy",
+                "peace"
+            ],
+            "upright_meaning": "Upright, the Ten of Cups signifies emotional fulfillment, harmonious relationships, and a sense of contentment in both personal and family life.",
+            "reversed_meaning": "Reversed, the Ten of Cups may indicate disharmony or dissatisfaction in relationships, especially within the family, or an imbalance in emotional fulfillment.",
+            "related_areas": [
+                "family",
+                "relationships",
+                "emotional harmony"
+            ],
+            "roman_numeral": "X",
+            "time_meanings": {
+                "past": "A time of emotional fulfillment and harmony in relationships shaped your current state.",
+                "present": "You are experiencing a period of happiness, contentment, and emotional balance in your relationships.",
+                "future": "A future of emotional fulfillment, peace, and harmony awaits you."
+            }
+        },
+        {
+            "id": "cp11",
+            "card_name": "Page of Cups",
+            "description": "The Page of Cups represents emotional curiosity, creativity, and new emotional opportunities. It signifies an open-hearted approach to life, where intuition and imagination guide you to explore new emotional landscapes.",
+            "keywords": [
+                "emotional curiosity",
+                "creativity",
+                "intuition",
+                "new opportunities",
+                "imagination"
+            ],
+            "upright_meaning": "Upright, the Page of Cups signifies emotional openness, a willingness to explore new emotional experiences, and the ability to express oneself creatively.",
+            "reversed_meaning": "Reversed, the Page of Cups may suggest emotional immaturity, difficulty in expressing feelings, or being closed off to new emotional experiences.",
+            "related_areas": [
+                "emotions",
+                "creativity",
+                "intuition"
+            ],
+            "roman_numeral": "XI",
+            "time_meanings": {
+                "past": "A time of emotional curiosity and exploration shaped your current state.",
+                "present": "New emotional opportunities or creative projects are on the horizon.",
+                "future": "Expect to open your heart to new emotional experiences and creative endeavors."
+            }
+        },
+        {
+            "id": "cp12",
+            "card_name": "Knight of Cups",
+            "description": "The Knight of Cups represents emotional bravery, passion, and the pursuit of love and beauty. It signifies a romantic and idealistic nature, driven by strong emotions and a desire to follow the heart's calling.",
+            "keywords": [
+                "romance",
+                "passion",
+                "emotional bravery",
+                "idealism",
+                "pursuit of love"
+            ],
+            "upright_meaning": "Upright, the Knight of Cups signifies a quest for emotional fulfillment, pursuing one's passions, and a strong connection to love and creativity.",
+            "reversed_meaning": "Reversed, the Knight of Cups can suggest emotional instability, being driven by unrealistic ideals, or chasing after unattainable dreams.",
+            "related_areas": [
+                "romance",
+                "emotions",
+                "passion"
+            ],
+            "roman_numeral": "XII",
+            "time_meanings": {
+                "past": "A time of pursuing emotional dreams and desires shaped your current state.",
+                "present": "Your heart is calling you to follow a passionate path or romantic pursuit.",
+                "future": "Embrace emotional bravery and pursue love and creativity with conviction."
+            }
+        },
+        {
+            "id": "cp13",
+            "card_name": "Queen of Cups",
+            "description": "The Queen of Cups embodies emotional maturity, compassion, and intuition. She represents a deep connection to one's emotions and the ability to nurture and support others with love and care.",
+            "keywords": [
+                "emotional maturity",
+                "compassion",
+                "intuition",
+                "nurturing",
+                "support"
+            ],
+            "upright_meaning": "Upright, the Queen of Cups signifies emotional balance, compassion, and a deep understanding of others' feelings. She is empathetic, caring, and emotionally intuitive.",
+            "reversed_meaning": "Reversed, the Queen of Cups can indicate emotional manipulation, being overly sensitive, or neglecting self-care in favor of others.",
+            "related_areas": [
+                "emotion",
+                "nurturing",
+                "intuition"
+            ],
+            "roman_numeral": "XIII",
+            "time_meanings": {
+                "past": "A time of emotional support and nurturing helped shape your current state.",
+                "present": "Trust your intuition and offer emotional care to those in need.",
+                "future": "Embrace emotional maturity and self-care as you nurture others."
+            }
+        },
+        {
+            "id": "cp14",
+            "card_name": "King of Cups",
+            "description": "The King of Cups represents emotional control, wisdom, and compassion. He is someone who has mastered his emotions and is able to offer emotional guidance, support, and understanding to others.",
+            "keywords": [
+                "emotional control",
+                "wisdom",
+                "compassion",
+                "emotional balance",
+                "understanding"
+            ],
+            "upright_meaning": "Upright, the King of Cups signifies emotional maturity, a calm demeanor, and the ability to offer sound advice and guidance. He is a strong leader who acts with compassion and fairness.",
+            "reversed_meaning": "Reversed, the King of Cups may indicate emotional instability, a lack of emotional maturity, or manipulative behavior. It can also suggest avoiding dealing with emotions.",
+            "related_areas": [
+                "leadership",
+                "emotional wisdom",
+                "guidance"
+            ],
+            "roman_numeral": "XIV",
+            "time_meanings": {
+                "past": "A time of emotional wisdom and control has shaped your current state.",
+                "present": "You are called to provide emotional support and wisdom to those around you.",
+                "future": "Emotional balance and wisdom will guide your future decisions."
+            }
+        }
+    ],
+    "swords": [
+        {
+            "id": "sw1",
+            "card_name": "Ace of Swords",
+            "description": "The Ace of Swords signifies mental clarity, new ideas, and breakthroughs. It represents the power of the mind to cut through confusion and gain insight, and the potential for new intellectual or mental endeavors.",
+            "keywords": [
+                "clarity",
+                "truth",
+                "new ideas",
+                "intellect",
+                "breakthrough"
+            ],
+            "upright_meaning": "Upright, the Ace of Swords signifies a new perspective, breakthrough thinking, or a mental challenge that brings clarity and insight. It indicates a time of intellectual growth and sharp decision-making.",
+            "reversed_meaning": "Reversed, the Ace of Swords may suggest confusion, miscommunication, or a lack of clear thinking. It can indicate mental blocks or the need to reconsider a situation.",
+            "related_areas": [
+                "intellect",
+                "clarity",
+                "communication"
+            ],
+            "roman_numeral": "I",
+            "time_meanings": {
+                "past": "A time of mental clarity or an intellectual breakthrough shaped your current state.",
+                "present": "A new idea or mental challenge is on the horizon.",
+                "future": "A time of clarity and breakthrough thinking will come into your life."
+            }
+        },
+        {
+            "id": "sw2",
+            "card_name": "Two of Swords",
+            "description": "The Two of Swords represents difficult decisions, indecision, and mental conflict. It signifies a crossroads or a situation in which a choice must be made, often between two equally important or challenging options.",
+            "keywords": [
+                "indecision",
+                "mental conflict",
+                "difficult decisions",
+                "balance",
+                "choices"
+            ],
+            "upright_meaning": "Upright, the Two of Swords signifies the need to make an important decision. It may indicate that you are at a crossroads and must choose a path, despite feeling torn or uncertain.",
+            "reversed_meaning": "Reversed, the Two of Swords suggests avoidance of a decision, mental blockages, or a refusal to confront the situation. It may indicate that clarity is needed, but you're resisting making the necessary choice.",
+            "related_areas": [
+                "decision making",
+                "conflict resolution",
+                "balance"
+            ],
+            "roman_numeral": "II",
+            "time_meanings": {
+                "past": "A time of indecision or mental conflict shaped your current situation.",
+                "present": "You are currently facing a difficult choice or situation requiring careful thought.",
+                "future": "A clear decision will soon be required, and the path will become clearer."
+            }
+        },
+        {
+            "id": "sw3",
+            "card_name": "Three of Swords",
+            "description": "The Three of Swords represents heartbreak, emotional pain, and sorrow. It signifies the presence of grief, betrayal, or a difficult emotional experience that requires healing.",
+            "keywords": [
+                "heartbreak",
+                "betrayal",
+                "grief",
+                "emotional pain",
+                "healing"
+            ],
+            "upright_meaning": "Upright, the Three of Swords signifies emotional pain, heartbreak, or a situation of loss. It may indicate betrayal or a difficult truth that has caused emotional turmoil.",
+            "reversed_meaning": "Reversed, the Three of Swords suggests the healing of emotional wounds, forgiveness, or the process of moving on from past hurts.",
+            "related_areas": [
+                "emotional healing",
+                "relationships",
+                "grief"
+            ],
+            "roman_numeral": "III",
+            "time_meanings": {
+                "past": "A period of emotional pain or heartbreak may have shaped your current state.",
+                "present": "You may be experiencing emotional difficulty or facing a painful truth.",
+                "future": "Healing and emotional recovery are on the horizon."
+            }
+        },
+        {
+            "id": "sw4",
+            "card_name": "Four of Swords",
+            "description": "The Four of Swords represents rest, recovery, and contemplation. It signifies a time of taking a break from stress or conflict to rejuvenate and regain mental clarity.",
+            "keywords": [
+                "rest",
+                "recovery",
+                "healing",
+                "contemplation",
+                "mental clarity"
+            ],
+            "upright_meaning": "Upright, the Four of Swords signifies a period of rest, reflection, or recovery. It may indicate the need to take a break, recharge, and focus on healing or mental well-being.",
+            "reversed_meaning": "Reversed, the Four of Swords suggests the need for rest but may also indicate a failure to take time for healing, leading to burnout or mental exhaustion.",
+            "related_areas": [
+                "mental health",
+                "healing",
+                "rest"
+            ],
+            "roman_numeral": "IV",
+            "time_meanings": {
+                "past": "A time of recovery or retreat shaped your current state.",
+                "present": "It may be time to take a break and focus on mental and emotional well-being.",
+                "future": "A period of rest and healing will restore your energy and clarity."
+            }
+        },
+        {
+            "id": "sw5",
+            "card_name": "Five of Swords",
+            "description": "The Five of Swords represents conflict, tension, and defeat. It signifies a situation where one might experience loss, dishonor, or the consequences of a conflict or disagreement.",
+            "keywords": [
+                "conflict",
+                "tension",
+                "defeat",
+                "betrayal",
+                "loss"
+            ],
+            "upright_meaning": "Upright, the Five of Swords signifies a period of conflict, a situation where victory may have been achieved, but at a personal cost or with a sense of dishonor.",
+            "reversed_meaning": "Reversed, the Five of Swords suggests that a conflict is reaching a resolution, or it may indicate that the situation is causing regret or feelings of guilt.",
+            "related_areas": [
+                "conflict",
+                "tension",
+                "loss"
+            ],
+            "roman_numeral": "V",
+            "time_meanings": {
+                "past": "A time of conflict or loss shaped your current state.",
+                "present": "Tension or conflict may be escalating, or you're feeling the consequences of a past argument.",
+                "future": "A resolution or a chance for reconciliation may be in your near future."
+            }
+        },
+        {
+            "id": "sw6",
+            "card_name": "Six of Swords",
+            "description": "The Six of Swords represents transition, moving on, and leaving behind difficulties. It symbolizes a journey toward a calmer, more peaceful state, often after a period of struggle.",
+            "keywords": [
+                "transition",
+                "moving on",
+                "peace",
+                "healing",
+                "escape"
+            ],
+            "upright_meaning": "Upright, the Six of Swords signifies moving on from a difficult situation, transitioning toward a more peaceful and stable environment.",
+            "reversed_meaning": "Reversed, the Six of Swords suggests resistance to moving on, or being stuck in a situation where escape or healing is needed but not pursued.",
+            "related_areas": [
+                "transition",
+                "healing",
+                "travel"
+            ],
+            "roman_numeral": "VI",
+            "time_meanings": {
+                "past": "A time of struggle or turbulence marked your current state.",
+                "present": "You're in the midst of transitioning, leaving behind past difficulties.",
+                "future": "A period of peace and healing is on the horizon as you leave behind past challenges."
+            }
+        },
+        {
+            "id": "sw7",
+            "card_name": "Seven of Swords",
+            "description": "The Seven of Swords represents stealth, strategy, and taking a risk. It indicates a need for careful planning or potentially deceptive behavior in order to achieve one's goals.",
+            "keywords": [
+                "strategy",
+                "deception",
+                "risk",
+                "planning",
+                "stealth"
+            ],
+            "upright_meaning": "Upright, the Seven of Swords signifies using cleverness or strategy to overcome challenges, but it can also indicate dishonesty or theft.",
+            "reversed_meaning": "Reversed, the Seven of Swords may indicate a need for greater transparency or the consequences of past deception coming to light.",
+            "related_areas": [
+                "strategy",
+                "deception",
+                "risk"
+            ],
+            "roman_numeral": "VII",
+            "time_meanings": {
+                "past": "A time when you may have been deceptive or used underhanded methods to achieve your goals.",
+                "present": "You may be in a situation where cleverness or caution is necessary, but consider the consequences of your actions.",
+                "future": "Be mindful of the risks and consequences involved in future plans, and avoid deceit."
+            }
+        },
+        {
+            "id": "sw8",
+            "card_name": "Eight of Swords",
+            "description": "The Eight of Swords represents feeling trapped, restricted, or facing mental challenges. It suggests a sense of being stuck in a situation, often due to one's own thoughts or beliefs.",
+            "keywords": [
+                "restriction",
+                "trapped",
+                "limitation",
+                "mental challenge",
+                "self-imposed"
+            ],
+            "upright_meaning": "Upright, the Eight of Swords indicates a feeling of being confined by your own limitations or fears, but it also suggests that liberation is possible if you change your perspective.",
+            "reversed_meaning": "Reversed, the Eight of Swords can indicate a release from mental or emotional confinement, overcoming limitations, or breaking free from restrictive situations.",
+            "related_areas": [
+                "mental struggles",
+                "self-imposed limitations",
+                "freedom"
+            ],
+            "roman_numeral": "VIII",
+            "time_meanings": {
+                "past": "A time when you may have felt trapped or limited by your own beliefs or circumstances.",
+                "present": "You may be feeling confined by your current situation, but liberation is possible if you change your mindset.",
+                "future": "A time of breaking free from restrictive patterns and gaining the freedom to move forward."
+            }
+        },
+        {
+            "id": "sw9",
+            "card_name": "Nine of Swords",
+            "description": "The Nine of Swords represents anxiety, fear, and mental anguish. It suggests sleepless nights, worries, and a sense of impending doom, often related to self-doubt or past regrets.",
+            "keywords": [
+                "anxiety",
+                "fear",
+                "sleeplessness",
+                "guilt",
+                "regret"
+            ],
+            "upright_meaning": "Upright, the Nine of Swords indicates overwhelming stress, anxiety, and fear. It can suggest that the mind is filled with negative thoughts, often exaggerated or unfounded.",
+            "reversed_meaning": "Reversed, the Nine of Swords suggests the possibility of overcoming fears and anxiety, finding clarity, and releasing mental burdens.",
+            "related_areas": [
+                "mental health",
+                "anxiety",
+                "self-doubt"
+            ],
+            "roman_numeral": "IX",
+            "time_meanings": {
+                "past": "A period of intense anxiety or regret that may still be affecting you.",
+                "present": "You may be facing overwhelming stress or fear, but it's important to recognize that these feelings are often exaggerated.",
+                "future": "A time of overcoming anxiety and finding peace of mind through clarity and self-acceptance."
+            }
+        },
+        {
+            "id": "sw10",
+            "card_name": "Ten of Swords",
+            "description": "The Ten of Swords represents betrayal, loss, and painful endings. It signals the culmination of a difficult period, often involving a sense of being defeated or overwhelmed by life's challenges.",
+            "keywords": [
+                "betrayal",
+                "endings",
+                "pain",
+                "defeat",
+                "loss"
+            ],
+            "upright_meaning": "Upright, the Ten of Swords suggests a painful conclusion to a difficult situation, a time when you feel overwhelmed, but also a reminder that things cannot get worse and that a new beginning is on the horizon.",
+            "reversed_meaning": "Reversed, the Ten of Swords may indicate the beginning of recovery from a painful situation, or the avoidance of an inevitable ending.",
+            "related_areas": [
+                "endings",
+                "healing",
+                "betrayal"
+            ],
+            "roman_numeral": "X",
+            "time_meanings": {
+                "past": "A period of betrayal or painful loss that shaped your current state.",
+                "present": "You may be experiencing the final stages of a difficult situation, but relief is on the way.",
+                "future": "A new beginning will emerge after this painful ending, bringing hope and renewal."
+            }
+        },
+        {
+            "id": "sw11",
+            "card_name": "Page of Swords",
+            "description": "The Page of Swords represents curiosity, intellect, and new ideas. It suggests a time of mental clarity, where you are eager to learn, explore new ideas, or seek truth in a situation.",
+            "keywords": [
+                "curiosity",
+                "communication",
+                "intellect",
+                "new ideas",
+                "truth-seeking"
+            ],
+            "upright_meaning": "Upright, the Page of Swords signifies a burst of energy and curiosity, often associated with a sharp mind, clear communication, and an eagerness to dive into new intellectual pursuits.",
+            "reversed_meaning": "Reversed, the Page of Swords can indicate a tendency towards impulsive communication, spreading misinformation, or being overly analytical without taking action.",
+            "related_areas": [
+                "communication",
+                "intellect",
+                "truth-seeking"
+            ],
+            "roman_numeral": "XI",
+            "time_meanings": {
+                "past": "A time of learning and discovering new ideas that have shaped your current perspective.",
+                "present": "You are eager to learn or communicate something new, and your curiosity is driving you forward.",
+                "future": "An intellectual challenge or new insight is approaching, requiring quick thinking and adaptability."
+            }
+        },
+        {
+            "id": "sw12",
+            "card_name": "Knight of Swords",
+            "description": "The Knight of Swords represents action, determination, and assertiveness. It symbolizes the energy of moving forward with a clear goal, charging ahead with confidence and ambition, often without hesitation.",
+            "keywords": [
+                "action",
+                "determination",
+                "ambition",
+                "assertiveness",
+                "decisiveness"
+            ],
+            "upright_meaning": "Upright, the Knight of Swords indicates swift action, a clear sense of purpose, and an unstoppable drive to reach goals. It represents the willingness to charge ahead, even in the face of challenges.",
+            "reversed_meaning": "Reversed, the Knight of Swords may suggest rash decisions, a lack of focus, or aggressive behavior. It can warn against charging ahead without considering the consequences.",
+            "related_areas": [
+                "action",
+                "ambition",
+                "determination"
+            ],
+            "roman_numeral": "XII",
+            "time_meanings": {
+                "past": "A time of fast-paced action or decisions has influenced your current state.",
+                "present": "You are in a period where swift action is needed, but caution is required to avoid rushing into things.",
+                "future": "A moment of decisive action is approaching, where you must act quickly with confidence."
+            }
+        },
+        {
+            "id": "sw13",
+            "card_name": "Queen of Swords",
+            "description": "The Queen of Swords represents clarity of mind, independence, and emotional resilience. She symbolizes the ability to make clear, logical decisions while maintaining emotional balance and strength.",
+            "keywords": [
+                "clarity",
+                "independence",
+                "intellect",
+                "resilience",
+                "truth"
+            ],
+            "upright_meaning": "Upright, the Queen of Swords indicates mental clarity, unbiased judgment, and the strength to face difficult situations with confidence. She encourages you to use your intellect and discernment to make decisions.",
+            "reversed_meaning": "Reversed, the Queen of Swords can suggest emotional coldness, detachment, or difficulty in making decisions. It may also indicate a lack of communication or clear thinking.",
+            "related_areas": [
+                "intellect",
+                "decision-making",
+                "resilience"
+            ],
+            "roman_numeral": "XIII",
+            "time_meanings": {
+                "past": "A period of intellectual growth or emotional healing has shaped your current situation.",
+                "present": "You may need to rely on logic and clarity to navigate a situation.",
+                "future": "A time of mental strength and clear judgment will be necessary in the near future."
+            }
+        },
+        {
+            "id": "sw14",
+            "card_name": "King of Swords",
+            "description": "The King of Swords represents intellectual authority, clear communication, and a strong sense of justice. He symbolizes the ability to make wise, informed decisions based on logic and fairness.",
+            "keywords": [
+                "intellectual authority",
+                "clear communication",
+                "wisdom",
+                "fairness",
+                "justice"
+            ],
+            "upright_meaning": "Upright, the King of Swords signifies a leader who uses intellect, fairness, and logic to make important decisions. He encourages you to approach situations with reason and to seek clarity in your thoughts and actions.",
+            "reversed_meaning": "Reversed, the King of Swords can indicate a misuse of authority, manipulation, or unethical decision-making. It may also suggest a lack of communication or mental clarity.",
+            "related_areas": [
+                "leadership",
+                "justice",
+                "decision-making"
+            ],
+            "roman_numeral": "XIV",
+            "time_meanings": {
+                "past": "A period of rational decision-making or intellectual leadership has influenced your current path.",
+                "present": "You may need to take a leadership role, using clear thought and fair judgment in a current situation.",
+                "future": "A time of important decisions and the need for clear communication lies ahead."
+            }
+        }
+    ],
+    "pentacles": [
+        {
+            "id": "pe1",
+            "card_name": "Ace of Pentacles",
+            "description": "The Ace of Pentacles signifies new beginnings in the material world, including wealth, career, and physical health. It represents prosperity, opportunities, and the potential for growth in tangible areas of life.",
+            "keywords": [
+                "new beginnings",
+                "prosperity",
+                "wealth",
+                "career opportunities",
+                "growth"
+            ],
+            "upright_meaning": "Upright, the Ace of Pentacles indicates a new opportunity for financial growth, stability, or success in material matters. It represents a strong foundation for building lasting wealth or improving your physical well-being.",
+            "reversed_meaning": "Reversed, the Ace of Pentacles may indicate missed opportunities, financial instability, or difficulty in manifesting material goals. It can also point to a lack of focus on your physical health.",
+            "related_areas": [
+                "finances",
+                "career",
+                "health",
+                "material success"
+            ],
+            "roman_numeral": "I",
+            "time_meanings": {
+                "past": "A time of financial opportunity or material gain shaped your current state.",
+                "present": "A new material opportunity is on the horizon.",
+                "future": "A time of stability and prosperity is approaching."
+            }
+        },
+        {
+            "id": "pe2",
+            "card_name": "Two of Pentacles",
+            "description": "The Two of Pentacles represents balance, adaptability, and juggling multiple responsibilities. It signifies the ability to manage different aspects of life, such as finances, work, and personal matters, with grace and flexibility.",
+            "keywords": [
+                "balance",
+                "adaptability",
+                "juggling responsibilities",
+                "change",
+                "flexibility"
+            ],
+            "upright_meaning": "Upright, the Two of Pentacles suggests that you are managing multiple priorities well and able to adapt to changes. It signifies balance and the ability to juggle different aspects of life with ease.",
+            "reversed_meaning": "Reversed, the Two of Pentacles can indicate feeling overwhelmed, struggling to maintain balance, or being unable to adapt to changing circumstances. It may suggest a need to refocus or streamline your priorities.",
+            "related_areas": [
+                "work-life balance",
+                "finances",
+                "time management"
+            ],
+            "roman_numeral": "II",
+            "time_meanings": {
+                "past": "A time of juggling multiple responsibilities shaped your current state.",
+                "present": "You are managing competing priorities with balance and flexibility.",
+                "future": "A period of change or adjustment is on the horizon."
+            }
+        },
+        {
+            "id": "pe3",
+            "card_name": "Three of Pentacles",
+            "description": "The Three of Pentacles represents teamwork, collaboration, and skill development. It signifies the recognition of effort and expertise in a group setting, and the ability to work together to achieve common goals.",
+            "keywords": [
+                "teamwork",
+                "collaboration",
+                "mastery",
+                "effort",
+                "recognition"
+            ],
+            "upright_meaning": "Upright, the Three of Pentacles suggests success through teamwork and collaboration. It highlights the value of skill development and recognition for your efforts in a group or professional setting.",
+            "reversed_meaning": "Reversed, the Three of Pentacles can indicate a lack of teamwork, poor collaboration, or unacknowledged efforts. It may suggest that the work or project you are involved in lacks the necessary cooperation or expertise.",
+            "related_areas": [
+                "workplace",
+                "partnerships",
+                "personal development"
+            ],
+            "roman_numeral": "III",
+            "time_meanings": {
+                "past": "A period of learning and collaboration helped shape your skills.",
+                "present": "Collaboration and teamwork are key to your current success.",
+                "future": "Opportunities for growth and recognition will come through working with others."
+            }
+        },
+        {
+            "id": "pe4",
+            "card_name": "Four of Pentacles",
+            "description": "The Four of Pentacles represents stability, security, and a strong desire to hold on to material possessions. It signifies the need for financial security but also warns against being too focused on material wealth at the expense of emotional or spiritual growth.",
+            "keywords": [
+                "security",
+                "stability",
+                "control",
+                "conservatism",
+                "materialism"
+            ],
+            "upright_meaning": "Upright, the Four of Pentacles suggests a need for stability and financial security. It can indicate holding on to resources and creating a solid foundation, but it may also suggest fear of change or attachment to material wealth.",
+            "reversed_meaning": "Reversed, the Four of Pentacles can indicate an unhealthy attachment to material possessions, greed, or fear of loss. It may suggest a need to loosen your grip on possessions or let go of controlling behaviors.",
+            "related_areas": [
+                "finances",
+                "security",
+                "personal growth"
+            ],
+            "roman_numeral": "IV",
+            "time_meanings": {
+                "past": "You may have spent time focusing on building stability or accumulating wealth.",
+                "present": "Financial security is a priority, but it may be time to evaluate your attachments.",
+                "future": "A balance between material stability and personal growth is coming."
+            }
+        },
+        {
+            "id": "pe5",
+            "card_name": "Five of Pentacles",
+            "description": "The Five of Pentacles represents financial loss, hardship, and feelings of insecurity. It often signals a time of struggle or difficulty, especially in matters related to money, health, or emotional well-being. It can also symbolize feelings of abandonment or isolation.",
+            "keywords": [
+                "loss",
+                "struggle",
+                "hardship",
+                "poverty",
+                "insecurity"
+            ],
+            "upright_meaning": "Upright, the Five of Pentacles indicates a time of financial hardship or emotional loss. It suggests feelings of isolation and vulnerability, but it also encourages seeking support and acknowledging the possibility of recovery.",
+            "reversed_meaning": "Reversed, the Five of Pentacles may suggest that hardship is coming to an end or that the situation is improving. It can also indicate a need to stop focusing on lack and start looking for opportunities to heal and recover.",
+            "related_areas": [
+                "finances",
+                "emotional health",
+                "personal support"
+            ],
+            "roman_numeral": "V",
+            "time_meanings": {
+                "past": "You may have faced financial difficulties or emotional challenges in the past.",
+                "present": "Hardship may be present, but support and recovery are possible.",
+                "future": "A period of healing and financial improvement is coming."
+            }
+        },
+        {
+            "id": "pe6",
+            "card_name": "Six of Pentacles",
+            "description": "The Six of Pentacles represents generosity, balance, and the giving and receiving of resources. It signifies a time of financial balance, where one is either receiving help or in a position to offer assistance to others.",
+            "keywords": [
+                "generosity",
+                "charity",
+                "balance",
+                "sharing",
+                "help"
+            ],
+            "upright_meaning": "Upright, the Six of Pentacles indicates a time of generosity, where financial resources or support are either being given or received. It suggests a balance of giving and receiving, and the need to consider fairness and equality in these exchanges.",
+            "reversed_meaning": "Reversed, the Six of Pentacles may suggest an imbalance in giving and receiving, with one side possibly feeling taken advantage of or unsupported. It may indicate a need to reassess how resources are shared and whether fairness is being maintained.",
+            "related_areas": [
+                "finances",
+                "generosity",
+                "charity"
+            ],
+            "roman_numeral": "VI",
+            "time_meanings": {
+                "past": "A time of giving or receiving support shaped your current situation.",
+                "present": "A situation of generosity or sharing may be unfolding.",
+                "future": "A period of balanced exchanges and mutual support is ahead."
+            }
+        },
+        {
+            "id": "pe7",
+            "card_name": "Seven of Pentacles",
+            "description": "The Seven of Pentacles represents patience, reflection, and long-term planning. It signifies a time of evaluating progress and determining whether the efforts put into a situation are leading to desired results.",
+            "keywords": [
+                "patience",
+                "reflection",
+                "hard work",
+                "growth",
+                "evaluation"
+            ],
+            "upright_meaning": "Upright, the Seven of Pentacles signifies a time to pause and assess the results of your hard work. It's a reminder to reflect on progress and make adjustments as necessary. It suggests that patience is required for the long-term rewards to manifest.",
+            "reversed_meaning": "Reversed, the Seven of Pentacles may indicate frustration with slow progress or a lack of results from your efforts. It can also suggest impatience or a need to reevaluate your approach to ensure that your investments of time and energy are worthwhile.",
+            "related_areas": [
+                "work",
+                "growth",
+                "reflection"
+            ],
+            "roman_numeral": "VII",
+            "time_meanings": {
+                "past": "A time of working hard without seeing immediate results shaped your current situation.",
+                "present": "You are at a point where reflection on your efforts is needed.",
+                "future": "Your patience and persistence will eventually lead to the desired outcome."
+            }
+        },
+        {
+            "id": "pe8",
+            "card_name": "Eight of Pentacles",
+            "description": "The Eight of Pentacles represents skill, dedication, and hard work. It signifies a time of honing your craft, focusing on perfecting your abilities, and putting in the effort to master something.",
+            "keywords": [
+                "skill",
+                "dedication",
+                "learning",
+                "craftsmanship",
+                "hard work"
+            ],
+            "upright_meaning": "Upright, the Eight of Pentacles signifies the rewards of dedicated effort and hard work. It encourages focusing on learning and perfecting your skills, as mastery is achieved through consistent effort and attention to detail.",
+            "reversed_meaning": "Reversed, the Eight of Pentacles may indicate a lack of focus, burnout, or stagnation in your work. It suggests that you may not be putting in the necessary effort or dedication to improve and develop your skills.",
+            "related_areas": [
+                "work",
+                "craftsmanship",
+                "learning"
+            ],
+            "roman_numeral": "VIII",
+            "time_meanings": {
+                "past": "A time when you dedicated yourself to mastering a craft has shaped your current abilities.",
+                "present": "Now is the time to focus on developing your skills and perfecting your craft.",
+                "future": "Your dedication to your work will soon lead to mastery and recognition."
+            }
+        },
+        {
+            "id": "pe9",
+            "card_name": "Nine of Pentacles",
+            "description": "The Nine of Pentacles represents self-sufficiency, luxury, and financial independence. It signifies enjoying the rewards of your hard work and living a life of comfort and security.",
+            "keywords": [
+                "independence",
+                "luxury",
+                "self-sufficiency",
+                "security",
+                "abundance"
+            ],
+            "upright_meaning": "Upright, the Nine of Pentacles signifies achieving financial stability and enjoying the fruits of your labor. It suggests a life of comfort, independence, and self-reliance.",
+            "reversed_meaning": "Reversed, the Nine of Pentacles may indicate financial insecurity, dependence on others, or a lack of appreciation for the rewards you have earned. It can also suggest a need to reassess your goals and values.",
+            "related_areas": [
+                "finances",
+                "security",
+                "self-sufficiency"
+            ],
+            "roman_numeral": "IX",
+            "time_meanings": {
+                "past": "A time of focusing on financial security and self-reliance has shaped your current state.",
+                "present": "You are currently enjoying the rewards of your hard work and financial independence.",
+                "future": "A period of continued financial stability and comfort is on the horizon."
+            }
+        },
+        {
+            "id": "pe10",
+            "card_name": "Ten of Pentacles",
+            "description": "The Ten of Pentacles signifies wealth, family legacy, and long-term stability. It represents the culmination of your efforts in building a secure future for yourself and your loved ones.",
+            "keywords": [
+                "wealth",
+                "legacy",
+                "stability",
+                "family",
+                "generational success"
+            ],
+            "upright_meaning": "Upright, the Ten of Pentacles signifies a time of financial prosperity, family security, and long-term success. It indicates a legacy of wealth and stability that spans generations.",
+            "reversed_meaning": "Reversed, the Ten of Pentacles may indicate financial instability, family discord, or a lack of long-term planning. It suggests a need to reevaluate your approach to wealth and family matters.",
+            "related_areas": [
+                "family",
+                "wealth",
+                "legacy"
+            ],
+            "roman_numeral": "X",
+            "time_meanings": {
+                "past": "A time of building wealth and securing your family's future has shaped your current state.",
+                "present": "You are experiencing or about to experience financial security and familial harmony.",
+                "future": "A legacy of wealth and stability will continue to grow, benefiting future generations."
+            }
+        },
+        {
+            "id": "pe11",
+            "card_name": "Page of Pentacles",
+            "description": "The Page of Pentacles represents new opportunities, learning, and the pursuit of financial growth. It signifies a youthful energy eager to learn and work toward tangible goals.",
+            "keywords": [
+                "new opportunities",
+                "learning",
+                "ambition",
+                "focus",
+                "financial growth"
+            ],
+            "upright_meaning": "Upright, the Page of Pentacles signifies a time of learning and growth. It encourages you to remain focused on your goals, study hard, and embrace new opportunities for financial success.",
+            "reversed_meaning": "Reversed, the Page of Pentacles may suggest a lack of focus, missed opportunities, or a reluctance to invest time and effort into your financial future.",
+            "related_areas": [
+                "learning",
+                "financial growth",
+                "new opportunities"
+            ],
+            "roman_numeral": "XI",
+            "time_meanings": {
+                "past": "A time of exploring new financial ventures or educational paths shaped your current state.",
+                "present": "You are learning new skills or exploring new opportunities for growth.",
+                "future": "A new opportunity for financial or personal growth will soon emerge."
+            }
+        },
+        {
+            "id": "pe12",
+            "card_name": "Knight of Pentacles",
+            "description": "The Knight of Pentacles represents hard work, dedication, and a methodical approach to achieving your goals. This card signifies perseverance, responsibility, and a focus on the long-term.",
+            "keywords": [
+                "hard work",
+                "dedication",
+                "responsibility",
+                "perseverance",
+                "focus"
+            ],
+            "upright_meaning": "Upright, the Knight of Pentacles signifies a period of diligent work and dedication toward achieving your goals. It encourages you to stay focused, be patient, and continue working steadily toward your financial or personal success.",
+            "reversed_meaning": "Reversed, the Knight of Pentacles can suggest a lack of progress, stagnation, or being too focused on routine without seeking innovation or new opportunities.",
+            "related_areas": [
+                "work ethic",
+                "responsibility",
+                "stability"
+            ],
+            "roman_numeral": "XII",
+            "time_meanings": {
+                "past": "A time of steady work and responsibility helped build your current foundation.",
+                "present": "You are in a phase of hard work and dedication, focusing on long-term success.",
+                "future": "Continue your steady efforts, as your hard work will soon lead to rewards."
+            }
+        },
+        {
+            "id": "pe13",
+            "card_name": "Queen of Pentacles",
+            "description": "The Queen of Pentacles represents nurturing, abundance, and practicality. She signifies a balance between material wealth and emotional well-being, focusing on creating a comfortable, stable environment for herself and others.",
+            "keywords": [
+                "nurturing",
+                "abundance",
+                "practicality",
+                "stability",
+                "comfort"
+            ],
+            "upright_meaning": "Upright, the Queen of Pentacles signifies a time of nurturing your physical and material needs, as well as those of others. It encourages a practical, grounded approach to achieving your goals while ensuring emotional fulfillment and stability.",
+            "reversed_meaning": "Reversed, the Queen of Pentacles can indicate a lack of balance between material pursuits and emotional well-being. It may suggest neglecting self-care or financial instability.",
+            "related_areas": [
+                "home life",
+                "material wealth",
+                "nurturing"
+            ],
+            "roman_numeral": "XIII",
+            "time_meanings": {
+                "past": "A period of nurturing and providing for yourself and others shaped your current stability.",
+                "present": "You are focusing on your home, finances, and well-being, finding a balance between material and emotional needs.",
+                "future": "A time of growth and abundance is approaching, bringing more stability and comfort."
+            }
+        },
+        {
+            "id": "pe14",
+            "card_name": "King of Pentacles",
+            "description": "The King of Pentacles embodies mastery over material wealth, stability, and security. He is the archetype of success, discipline, and the ability to create lasting wealth, as well as the stewardship of resources.",
+            "keywords": [
+                "wealth",
+                "success",
+                "stability",
+                "discipline",
+                "security"
+            ],
+            "upright_meaning": "Upright, the King of Pentacles signifies a time of financial security, personal accomplishment, and mastery over material concerns. It represents using discipline and responsibility to maintain long-term stability and success.",
+            "reversed_meaning": "Reversed, the King of Pentacles can indicate a focus on materialism at the expense of emotional fulfillment. It may also suggest irresponsibility with money or resources, or a lack of generosity.",
+            "related_areas": [
+                "wealth",
+                "business",
+                "stability"
+            ],
+            "roman_numeral": "XIV",
+            "time_meanings": {
+                "past": "A period of financial success or material stability has shaped your current state.",
+                "present": "You are achieving mastery over material concerns, using your resources wisely to build a secure future.",
+                "future": "A time of great financial stability and accomplishment is ahead."
+            }
+        }
+    ],
+    "wands": [
+        {
+            "id": "wa1",
+            "card_name": "Ace of Wands",
+            "description": "The Ace of Wands symbolizes the spark of new inspiration, creativity, and opportunity. It represents the start of a new creative endeavor or a burst of motivation to pursue your passions.",
+            "keywords": [
+                "new beginnings",
+                "creativity",
+                "inspiration",
+                "motivation",
+                "passion"
+            ],
+            "upright_meaning": "Upright, the Ace of Wands signifies the birth of new ideas, the initiation of a creative project, and the excitement of pursuing a new passion. It's a sign to take action and follow through with your visions.",
+            "reversed_meaning": "Reversed, the Ace of Wands can indicate a lack of direction, creative blocks, or missed opportunities. It suggests that you may be feeling uninspired or hesitant to take the first step toward your goals.",
+            "related_areas": [
+                "creativity",
+                "inspiration",
+                "ambition"
+            ],
+            "roman_numeral": "I",
+            "time_meanings": {
+                "past": "A time of new inspiration or creative beginnings shaped your current state.",
+                "present": "A surge of motivation or opportunity is presenting itself.",
+                "future": "A new passion or creative endeavor is about to unfold."
+            }
+        },
+        {
+            "id": "wa2",
+            "card_name": "Two of Wands",
+            "description": "The Two of Wands represents planning, progress, and decision-making. It signifies a time of contemplating your options and making a decision about the direction you want to take, particularly in relation to long-term goals or ambitions.",
+            "keywords": [
+                "planning",
+                "decisions",
+                "progress",
+                "future vision",
+                "ambition"
+            ],
+            "upright_meaning": "Upright, the Two of Wands signifies taking the first steps toward achieving your goals, making plans for the future, and considering new opportunities. It indicates a time of confidence and preparation.",
+            "reversed_meaning": "Reversed, the Two of Wands can suggest hesitation, indecision, or a lack of direction in your plans. It may indicate that you're unsure of which path to take or feeling uncertain about your future.",
+            "related_areas": [
+                "planning",
+                "ambition",
+                "decisions"
+            ],
+            "roman_numeral": "II",
+            "time_meanings": {
+                "past": "A time of planning and making decisions about your future shaped your current state.",
+                "present": "You're in a phase of planning and weighing your options.",
+                "future": "A decision will soon need to be made regarding your next steps."
+            }
+        },
+        {
+            "id": "wa3",
+            "card_name": "Three of Wands",
+            "description": "The Three of Wands represents expansion, progress, and foresight. It signifies a time of looking ahead with optimism, having already put plans in motion, and waiting for the results of your efforts to manifest.",
+            "keywords": [
+                "expansion",
+                "progress",
+                "foresight",
+                "optimism",
+                "growth"
+            ],
+            "upright_meaning": "Upright, the Three of Wands signifies that your efforts are paying off and you are on the right track to achieving your long-term goals. It suggests taking a step back to assess your progress and prepare for the next phase.",
+            "reversed_meaning": "Reversed, the Three of Wands can suggest delays, lack of progress, or dissatisfaction with the results of your efforts. It may indicate the need to reevaluate your approach and make adjustments.",
+            "related_areas": [
+                "growth",
+                "expansion",
+                "future planning"
+            ],
+            "roman_numeral": "III",
+            "time_meanings": {
+                "past": "A time of planning and taking initial steps toward your goals has brought you to this point.",
+                "present": "You're at a stage where your efforts are starting to show results, and it's time to look ahead.",
+                "future": "The future holds further opportunities for growth and expansion, with the possibility of greater success."
+            }
+        },
+        {
+            "id": "wa4",
+            "card_name": "Four of Wands",
+            "description": "The Four of Wands represents celebration, harmony, and the achievement of a milestone. It signifies a time of joy, community, and stability, particularly in personal and family matters. It indicates the successful completion of a significant phase or project.",
+            "keywords": [
+                "celebration",
+                "harmony",
+                "milestones",
+                "stability",
+                "community"
+            ],
+            "upright_meaning": "Upright, the Four of Wands signifies a time of celebration and joy after achieving a major goal or milestone. It represents harmony in relationships, a sense of belonging, and feeling secure in your accomplishments.",
+            "reversed_meaning": "Reversed, the Four of Wands may indicate instability, delays, or tension in personal matters. It can suggest that a celebration or milestone is delayed or that there are obstacles preventing you from fully enjoying your success.",
+            "related_areas": [
+                "celebration",
+                "relationships",
+                "stability"
+            ],
+            "roman_numeral": "IV",
+            "time_meanings": {
+                "past": "A time of achievement or a successful milestone brought you to this stage.",
+                "present": "You're in a phase of celebration, stability, and enjoying the fruits of your labor.",
+                "future": "A milestone or important event will bring joy and stability to your life."
+            }
+        },
+        {
+            "id": "wa5",
+            "card_name": "Five of Wands",
+            "description": "The Five of Wands represents conflict, competition, and challenges. It signifies a time of struggle, where differing opinions or opposing forces are at play. This card often points to an environment of tension, where multiple people may be vying for the same goal or outcome.",
+            "keywords": [
+                "competition",
+                "conflict",
+                "challenges",
+                "struggle",
+                "competition"
+            ],
+            "upright_meaning": "Upright, the Five of Wands signifies a time of conflict or competition. It may represent disagreements, differing opinions, or challenges in your environment. However, it can also indicate that these struggles are necessary for growth and development.",
+            "reversed_meaning": "Reversed, the Five of Wands suggests that the conflict is dissipating, and a resolution or new perspective is emerging. It can also indicate a lack of motivation to engage in competition or the avoidance of challenges.",
+            "related_areas": [
+                "conflict",
+                "challenges",
+                "competition"
+            ],
+            "roman_numeral": "V",
+            "time_meanings": {
+                "past": "A time of conflict or competition has shaped your current situation.",
+                "present": "You're in a phase where competition or challenges are playing a significant role.",
+                "future": "A resolution to the conflict or competition will soon become clear."
+            }
+        },
+        {
+            "id": "wa6",
+            "card_name": "Six of Wands",
+            "description": "The Six of Wands represents victory, success, and public recognition. It signifies a time when your efforts are being rewarded, and you are receiving the recognition you deserve for your achievements. This card is a sign of confidence and accomplishment.",
+            "keywords": [
+                "victory",
+                "success",
+                "recognition",
+                "confidence",
+                "accomplishment"
+            ],
+            "upright_meaning": "Upright, the Six of Wands signifies triumph and recognition. It indicates that your hard work is paying off and that you're receiving acknowledgment for your achievements. It's a time of celebration and confidence.",
+            "reversed_meaning": "Reversed, the Six of Wands may suggest a lack of recognition or a feeling of being overlooked. It could also indicate that you are not feeling as confident or successful as you should, or that success has been fleeting.",
+            "related_areas": [
+                "success",
+                "recognition",
+                "confidence"
+            ],
+            "roman_numeral": "VI",
+            "time_meanings": {
+                "past": "A time of achievement and success has shaped your current situation.",
+                "present": "You're experiencing or on the brink of recognition for your efforts.",
+                "future": "A victory or success is within reach, and public recognition is likely."
+            }
+        },
+        {
+            "id": "wa7",
+            "card_name": "Seven of Wands",
+            "description": "The Seven of Wands represents perseverance, defense, and standing your ground. It signifies a time of challenge, where you are being called to protect your position or defend your beliefs against competition or opposition.",
+            "keywords": [
+                "perseverance",
+                "defense",
+                "challenge",
+                "standing your ground",
+                "competition"
+            ],
+            "upright_meaning": "Upright, the Seven of Wands signifies a time when you must defend your position, ideas, or beliefs. It indicates perseverance in the face of adversity and a need to stay strong and assertive. Success comes from standing firm.",
+            "reversed_meaning": "Reversed, the Seven of Wands may indicate a fear of confrontation or a lack of confidence in defending your position. It suggests giving up or being overwhelmed by opposition or external pressures.",
+            "related_areas": [
+                "defense",
+                "perseverance",
+                "competition"
+            ],
+            "roman_numeral": "VII",
+            "time_meanings": {
+                "past": "You’ve faced challenges and opposition that have shaped your current path.",
+                "present": "You may be facing a time when you need to stand up for yourself or your ideas.",
+                "future": "A period of intense competition or challenges will require you to defend your position."
+            }
+        },
+        {
+            "id": "wa8",
+            "card_name": "Eight of Wands",
+            "description": "The Eight of Wands signifies swift action, progress, and momentum. It represents a time when things are moving quickly and decisions or events are happening at a rapid pace. It indicates that progress is being made and things are falling into place.",
+            "keywords": [
+                "quick progress",
+                "momentum",
+                "swift action",
+                "movement",
+                "decisions"
+            ],
+            "upright_meaning": "Upright, the Eight of Wands signifies a time of fast movement and progress. It indicates that things are happening quickly, and you should be ready to make decisions or take action. It’s a sign of momentum and swift changes.",
+            "reversed_meaning": "Reversed, the Eight of Wands suggests delays, lack of progress, or miscommunication. It may indicate that things are moving slowly or that obstacles are preventing swift action.",
+            "related_areas": [
+                "movement",
+                "progress",
+                "action"
+            ],
+            "roman_numeral": "VIII",
+            "time_meanings": {
+                "past": "A time of rapid action or progress led you to this point.",
+                "present": "Things are moving quickly, and decisions need to be made promptly.",
+                "future": "Expect fast-paced movement or sudden changes that will propel you forward."
+            }
+        },
+        {
+            "id": "wa9",
+            "card_name": "Nine of Wands",
+            "description": "The Nine of Wands represents perseverance, resilience, and protecting your achievements. It signifies a time when you've been through challenges and are standing strong, ready to defend what you've worked for. It is a card of resilience and enduring through adversity.",
+            "keywords": [
+                "perseverance",
+                "resilience",
+                "defense",
+                "strength",
+                "endurance"
+            ],
+            "upright_meaning": "Upright, the Nine of Wands signifies resilience and determination. It indicates that despite challenges and obstacles, you're standing strong and ready to defend your position or your achievements. It’s a reminder not to give up, even when things get tough.",
+            "reversed_meaning": "Reversed, the Nine of Wands can suggest exhaustion, burnout, or feeling vulnerable. It may indicate that you are feeling weary from the challenges and may need to take a step back and recharge.",
+            "related_areas": [
+                "strength",
+                "resilience",
+                "defense"
+            ],
+            "roman_numeral": "IX",
+            "time_meanings": {
+                "past": "You've already fought through challenges and are now standing firm.",
+                "present": "You may be feeling weary, but it’s important to push through and protect what you’ve achieved.",
+                "future": "You will need to remain resilient as you face new challenges."
+            }
+        },
+        {
+            "id": "wa10",
+            "card_name": "Ten of Wands",
+            "description": "The Ten of Wands represents burdens, responsibility, and being overwhelmed. It signifies a time when you are carrying a heavy load, whether through work, personal commitments, or obligations. While the Ten of Wands indicates hard work, it also points to the need to recognize when it’s time to delegate or let go of some responsibilities.",
+            "keywords": [
+                "burdens",
+                "responsibility",
+                "overwhelm",
+                "hard work",
+                "exhaustion"
+            ],
+            "upright_meaning": "Upright, the Ten of Wands indicates that you are carrying a heavy load or feeling overburdened. It suggests the need to recognize your limits and consider asking for help or lightening your responsibilities. It also signifies the culmination of hard work and a need for a break.",
+            "reversed_meaning": "Reversed, the Ten of Wands can indicate that you are ready to release your burdens or that you're finally letting go of something that has been weighing you down. It could also signify a time when you may be avoiding responsibility or procrastinating.",
+            "related_areas": [
+                "work",
+                "responsibility",
+                "stress"
+            ],
+            "roman_numeral": "X",
+            "time_meanings": {
+                "past": "A time of taking on too much responsibility or working tirelessly has led you to this point.",
+                "present": "You are feeling overwhelmed or burdened by your current obligations.",
+                "future": "You may need to lighten your load or seek assistance in the future."
+            }
+        },
+        {
+            "id": "wa11",
+            "card_name": "Page of Wands",
+            "description": "The Page of Wands represents enthusiasm, curiosity, and exploration. It signifies the early stages of a creative journey or new adventure. The Page of Wands embodies a spirit of discovery and excitement, urging you to explore new possibilities and embrace your passions with confidence.",
+            "keywords": [
+                "enthusiasm",
+                "curiosity",
+                "creativity",
+                "adventure",
+                "exploration"
+            ],
+            "upright_meaning": "Upright, the Page of Wands signifies a time of exploration and creative inspiration. It suggests new ideas, beginnings, or projects and encourages you to take bold steps toward your goals. It is a card of optimism and discovering new horizons.",
+            "reversed_meaning": "Reversed, the Page of Wands may suggest a lack of direction or a tendency to act impulsively without considering the consequences. It may also indicate a blockage in creativity or a delay in starting new projects.",
+            "related_areas": [
+                "creativity",
+                "new beginnings",
+                "exploration"
+            ],
+            "roman_numeral": "XI",
+            "time_meanings": {
+                "past": "A time of new ideas or creative sparks has shaped your current state.",
+                "present": "You're about to embark on a new journey or creative endeavor.",
+                "future": "Exciting opportunities for growth and exploration are on the horizon."
+            }
+        },
+        {
+            "id": "wa12",
+            "card_name": "Knight of Wands",
+            "description": "The Knight of Wands represents energy, action, and determination. It signifies a time of bold action and moving forward with passion and purpose. The Knight of Wands embodies a fearless pursuit of goals, seeking adventure and excitement without hesitation.",
+            "keywords": [
+                "action",
+                "determination",
+                "adventure",
+                "passion",
+                "confidence"
+            ],
+            "upright_meaning": "Upright, the Knight of Wands signifies taking bold action toward your goals with enthusiasm and passion. It suggests a strong sense of adventure and the willingness to take risks to achieve success. It's a card of confidence, courage, and moving forward without fear.",
+            "reversed_meaning": "Reversed, the Knight of Wands can suggest recklessness, impulsive decisions, or a lack of follow-through. It may indicate a tendency to act without thinking or a loss of direction, leading to unfinished projects or goals.",
+            "related_areas": [
+                "action",
+                "adventure",
+                "confidence"
+            ],
+            "roman_numeral": "XII",
+            "time_meanings": {
+                "past": "A time of bold actions or passionate pursuits has shaped your current state.",
+                "present": "You are in a phase where taking action is essential for progress.",
+                "future": "Exciting and adventurous opportunities are on the horizon, requiring quick and confident decisions."
+            }
+        },
+        {
+            "id": "wa13",
+            "card_name": "Queen of Wands",
+            "description": "The Queen of Wands represents confidence, creativity, and leadership. She embodies a powerful, vibrant energy and is someone who is assertive, inspiring, and full of passion. This card signifies someone who is in touch with their inner strength, capable of handling challenges with grace and determination.",
+            "keywords": [
+                "confidence",
+                "creativity",
+                "leadership",
+                "passion",
+                "determination"
+            ],
+            "upright_meaning": "Upright, the Queen of Wands signifies a time of strong leadership, creativity, and self-assurance. It suggests being in tune with your power, inspiring others, and taking control of your destiny. This card encourages you to be bold, confident, and embrace your inner strength.",
+            "reversed_meaning": "Reversed, the Queen of Wands may indicate a lack of self-confidence, creative blockages, or difficulty asserting oneself. It can also suggest a loss of direction or feeling disconnected from your passions or leadership abilities.",
+            "related_areas": [
+                "leadership",
+                "creativity",
+                "self-assurance"
+            ],
+            "roman_numeral": "XIII",
+            "time_meanings": {
+                "past": "A period of self-discovery and empowerment has influenced your current state.",
+                "present": "You are currently embodying confidence and creativity, with the ability to inspire and lead others.",
+                "future": "A time of strong leadership and creative expression is ahead, bringing opportunities for growth and success."
+            }
+        },
+        {
+            "id": "wa14",
+            "card_name": "King of Wands",
+            "description": "The King of Wands represents vision, leadership, and authority. He is a natural-born leader, someone who is strategic, charismatic, and determined. This card embodies the energy of someone who takes control of their life and leads with confidence and integrity.",
+            "keywords": [
+                "vision",
+                "leadership",
+                "authority",
+                "strategic thinking",
+                "determination"
+            ],
+            "upright_meaning": "Upright, the King of Wands signifies a time of leadership, decisiveness, and forward-thinking. It suggests taking charge of a situation, being visionary, and showing strength in decision-making. This card encourages you to step into your full potential and lead with integrity.",
+            "reversed_meaning": "Reversed, the King of Wands may indicate misuse of power, arrogance, or a lack of direction. It can also suggest a failure to plan strategically, or a loss of control in a leadership role.",
+            "related_areas": [
+                "leadership",
+                "vision",
+                "authority"
+            ],
+            "roman_numeral": "XIV",
+            "time_meanings": {
+                "past": "A time of leadership and strategic vision has shaped your current state.",
+                "present": "You are in a position to take charge, make decisions, and lead others with confidence.",
+                "future": "A time of decisive leadership and visionary action is ahead, bringing success and opportunities."
+            }
+        }
+    ]
+}

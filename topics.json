@@ -1,53 +1,52 @@
 {
-    "1": {
-      "id": 1,
-      "topic": "Love and Relationships",
-      "description": "Insights into romantic relationships, friendships, family dynamics, and soulmate connections.",
-      "common_questions": [
-        "What is the current state of my love life?",
-        "Is my partner the one for me?",
-        "How can I improve my relationship with my family?"
-      ]
-    },
-    "2": {
-      "id": 2,
-      "topic": "Career and Work",
-      "description": "Guidance on job opportunities, career growth, and work-related challenges.",
-      "common_questions": [
-        "What is my career path looking like?",
-        "Will I get a promotion at work?",
-        "Should I switch careers?"
-      ]
-    },
-    "3": {
-      "id": 3,
-      "topic": "Finances and Wealth",
-      "description": "Focus on financial stability, money management, investments, and abundance.",
-      "common_questions": [
-        "What is my financial future?",
-        "How can I improve my financial situation?",
-        "Should I invest in this opportunity?"
-      ]
-    },
-    "4": {
-      "id": 4,
-      "topic": "Health and Well-being",
-      "description": "Advice on physical, emotional, and mental health, as well as self-care practices.",
-      "common_questions": [
-        "How can I improve my overall health?",
-        "What do I need to focus on for emotional well-being?",
-        "Are there any health risks I should be aware of?"
-      ]
-    },
-    "5": {
-      "id": 5,
-      "topic": "Personal Growth and Self-Development",
-      "description": "Exploration of personal challenges, inner strength, and spiritual or emotional growth.",
-      "common_questions": [
-        "What is blocking my personal growth?",
-        "How can I tap into my inner strength?",
-        "What lessons do I need to learn in this phase of my life?"
-      ]
-    }
+  "1": {
+    "id": 1,
+    "topic": "Love and Relationships",
+    "description": "Insights into romantic relationships, friendships, family dynamics, and soulmate connections.",
+    "common_questions": [
+      "What is the current state of my love life?",
+      "Is my partner the one for me?",
+      "How can I improve my relationship with my family?"
+    ]
+  },
+  "2": {
+    "id": 2,
+    "topic": "Career and Work",
+    "description": "Guidance on job opportunities, career growth, and work-related challenges.",
+    "common_questions": [
+      "What is my career path looking like?",
+      "Will I get a promotion at work?",
+      "Should I switch careers?"
+    ]
+  },
+  "3": {
+    "id": 3,
+    "topic": "Finances and Wealth",
+    "description": "Focus on financial stability, money management, investments, and abundance.",
+    "common_questions": [
+      "What is my financial future?",
+      "How can I improve my financial situation?",
+      "Should I invest in this opportunity?"
+    ]
+  },
+  "4": {
+    "id": 4,
+    "topic": "Health and Well-being",
+    "description": "Advice on physical, emotional, and mental health, as well as self-care practices.",
+    "common_questions": [
+      "How can I improve my overall health?",
+      "What do I need to focus on for emotional well-being?",
+      "Are there any health risks I should be aware of?"
+    ]
+  },
+  "5": {
+    "id": 5,
+    "topic": "Personal Growth and Self-Development",
+    "description": "Exploration of personal challenges, inner strength, and spiritual or emotional growth.",
+    "common_questions": [
+      "What is blocking my personal growth?",
+      "How can I tap into my inner strength?",
+      "What lessons do I need to learn in this phase of my life?"
+    ]
   }
-  
+}

@@ -10,7 +10,8 @@ class Topic:
         for topic_id, topic_data in topics.items():
            topics_list += f"{topic_id}. {topic_data.get("topic")}\n{topic_data.get("description")}\n"
         return topics_list
-
+    
+    @staticmethod
     def get_prompts(topic_id):
         count = 1
         prompts = ""
@@ -21,7 +22,8 @@ class Topic:
             prompts += f"{count}. {question}\n"
             count += 1
         return prompts
-
+    
+    @staticmethod
     def get_topic_name(topic_id):
         with open("topics.json", "r", encoding="utf-8") as topics_file:
             topics = json.load(topics_file)
