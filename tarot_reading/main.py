@@ -24,7 +24,7 @@ def main():
             user.add_topic_id(topic)
             break
         print("Improper selection please enter a number 1-5")
-    
+
     print(f"{Topic.get_topic_name(user.topic_id)} can grant you insights such as {Topic.get_topic_description(user.topic_id)}")
     print("Please think about which question you want insight into.\n")
 
@@ -35,8 +35,6 @@ def main():
             user.add_prompt(prompt)
             break
         print("Improper selection please enter a number 1-3")
-    
-
 
 
 if __name__ == "__main__":
